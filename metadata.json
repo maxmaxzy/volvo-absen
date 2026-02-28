@@ -1,0 +1,5 @@
+{
+  "name": "VOLVE",
+  "description": "Sistem absensi digital modern dengan pengenalan wajah AI, geo-fencing, dan dashboard analitik untuk perusahaan.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
